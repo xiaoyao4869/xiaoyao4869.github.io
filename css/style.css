@@ -137,11 +137,10 @@ body,
   height: 100%;
 }
 body {
-  font-family: "隶书", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "微软雅黑", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  font-weight: bolder;
-  background-color: #87cefa;
-  color: #000;
+  background-color: #292929;
+  color: #fff;
   -webkit-overflow-scrolling: touch;
   background-attachment: fixed;
 }
